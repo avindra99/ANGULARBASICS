@@ -1,0 +1,11 @@
+p{
+    color: black;
+}
+wrapper{
+    margin: 0px auto;
+    width: 820px;
+}
+imageselect{
+    display: flex;
+    padding: 30px 40px;
+}
